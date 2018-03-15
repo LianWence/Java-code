@@ -1,0 +1,6 @@
+*.jsp   linguist-language=Jsp
+*.java  linguist-language=Java
+*.class linguist-language=Java
+*.html  linguist-language=Html
+*.css   linguist-language=Css
+*.js    linguist-language=JavaScript
